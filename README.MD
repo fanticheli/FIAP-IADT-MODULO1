@@ -1,3 +1,6 @@
+# LINK DO VIDEO
+https://youtu.be/cHCr8BEuPZw?si=g1ISX1IMV3bupqeB
+
 # Previsão de Custos Médicos – Tech Challenge Fase 1
 
 Olá! Seja bem-vindo(a) ao repositório do **Tech Challenge Fase 1**, onde embarcamos na jornada de criar um modelo de Machine Learning que **prevê custos médicos** para seguros de saúde. Aqui você vai encontrar tudo o que foi feito, desde a exploração dos dados até a avaliação final dos modelos. Vamos juntos nessa?
